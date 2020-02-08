@@ -4,7 +4,10 @@
 
 #Android_BackDoor
 
+Configuration :-
+
 git clone <pasteurl>
+  
 chmod +x Back_door.sh
 
 #After that you need to get into root directory of android device by typing “cd /” in terminal.
