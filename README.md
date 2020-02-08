@@ -8,7 +8,7 @@ Configuration :-
 
 git clone <paste_url>
   
-cd Back_door.sh
+cd Back_door-Script-ForAndroid
 
 chmod +x Back_door.sh
 
