@@ -6,7 +6,7 @@
 
 Configuration :-
 
-git clone <pasteurl>
+git clone <paste_url>
   
 chmod +x Back_door.sh
 
@@ -23,3 +23,5 @@ chmod +x Back_door.sh
 #your script has been executed successfully, you can terminate the execution by pressing CTRL + C and then type Y.
 
 done!
+
+# If You Are Online ByDefault You Are Vulnerable...!!
